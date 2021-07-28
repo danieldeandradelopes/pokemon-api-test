@@ -3,7 +3,7 @@ const { Router } = require('express');
 
 const routes = Router();
 
-routes.get('/pokemons', (req, res) => {
+routes.get('/pokemon', (req, res) => {
   res.send(pokemons);
 });
 
