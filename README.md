@@ -1,9 +1,10 @@
-Essa `api` é usada para teste, nela temos uma pequena listagem de pokemons, para usá-la é muito simples.
+**POKEMON API TEST**
 
-A `api` possui apenas o verbo `GET`.
+This `api` is used to tests, we have a little list of pokeons, use is very simple:
 
+We have `api` only a `GET`
 
-Listar pokemons - https://poke-dani.herokuapp.com/pokemon
+List all pokemons - https://poke-dani.herokuapp.com/pokemon
 
 ```json=
 [
@@ -45,3 +46,11 @@ Listar pokemons - https://poke-dani.herokuapp.com/pokemon
   }
 ]
 ```
+
+**To contribute:**
+
+1. `Clone` this repository
+2. Create a new branch in this format `feature/feature_name`
+3. Open `pull request`
+4. Wait approve
+5. Get a green mark (contribution) in your github profile
