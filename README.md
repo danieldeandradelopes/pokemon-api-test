@@ -49,8 +49,8 @@ List all pokemons - https://poke-dani.herokuapp.com/pokemon
 
 **To contribute:**
 
-1. `Clone` this repository
-2. Create a new branch in this format `feature/feature_name`
+1. Make a `fork`
+2. Create your updates
 3. Open `pull request`
 4. Wait approve
 5. Get a green mark (contribution) in your github profile
