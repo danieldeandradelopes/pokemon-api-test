@@ -4,7 +4,7 @@ This `api` is used to tests, we have a little list of pokeons, use is very simpl
 
 We have `api` only a `GET`
 
-List all pokemons - https://poke-dani.herokuapp.com/pokemon
+List all pokemons - `/pokemon`
 
 ```json=
 [
