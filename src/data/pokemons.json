@@ -34,5 +34,29 @@
     "name": "Geodude",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
     "type": "Fighting"
+  },
+  {
+    "id": 7,
+    "name": "Mewtwo",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
+    "type": "Psychic"
+  },
+  {
+    "id": 8,
+    "name": "Petilil",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/548.png",
+    "type": "Grass"
+  },
+  {
+    "id": 9,
+    "name": "Dusknoir",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/477.png",
+    "type": "Ghost"
+  },
+  {
+    "id": 10,
+    "name": "Lycanroc",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/745.png",
+    "type": "Rock"
   }
 ]
